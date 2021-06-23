@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayu/Desktop/LearnOpenGL/src/learnopengl/cube.cpp
+bits/stdc++.h
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/ext.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+
+include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+include/glad/glad.h
+KHR/khrplatform.h
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayu/Desktop/LearnOpenGL/src/learnopengl/04_hello_window.cpp
+bits/stdc++.h
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+
+include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+include/glad/glad.h
+KHR/khrplatform.h
+-
+

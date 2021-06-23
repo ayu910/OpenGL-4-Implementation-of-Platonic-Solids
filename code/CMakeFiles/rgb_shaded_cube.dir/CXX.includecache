@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayu/Desktop/113263475_pa4/src/pa4/rgb_shaded_cube.cpp
+bits/stdc++.h
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/ext.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+vector
+-
+
+include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+include/glad/glad.h
+KHR/khrplatform.h
+-
+
